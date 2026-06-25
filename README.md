@@ -1,4 +1,4 @@
-# Sphyra-I
+# Sphyra 1
 Open-source digital microscope for digital pathology research (RUO)
 
 Legacy digital pathology tries to build a factory around you - forcing your laboratory into bloated, slow, and multi-million dollar Whole Slide Imaging pipelines.
